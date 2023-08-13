@@ -5,7 +5,7 @@
         CAstronomy Updates — The main Script repository at CAstronomy.
      </p>
   </description>
-   <platform os="all" arch="noarch" version="1.6.9:1.6.9">
+   <platform os="all" arch="noarch" version="1.6.9:2.0.0">
       <package fileName="CAstronomyEz.zip"
                sha1="b664b010a80d5adba89c9aad9ba989d26364f623"
                type="script"
