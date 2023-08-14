@@ -1,17 +1,25 @@
 # CAstronomyEzMono
 A simple script that automates the boring part of editing.
 
-What do you need?:
-S H O subs
+WHAT YOU NEED:
+SHO subs or an RGB image taken with DUAL-NARROWBAND filter.
 RC-blurX / noiseX / starX *You can run the program without them if you don't tick the boxes!
+***By using an RBG image it will automaticly put the script in OSC-DUONARROWBAND mode and create a fake SHO/HUBBLE image if named rgb***
 
-Instructions:
-Add your SHO subs
-Name them: s  h  o     *Lowercase is important.
+INSTRUCTIONS:
+mono.
+Add your SHO subs.
+Name them: s  h  o ***lowercase is important***
 
-Known bugs in current version:
-Super Lum - setting will make part of the script target the wrong window thus might crash and not finish the script. *This is fixed in newer versions!
+rgb.
+Add your rgb image.
+Name it rgb ***lowercase is important***
+***This mode ignores crop/abe and the palette settings and creates a fake SHO/HUBBLE palette!***
+
+
+KNOWN BUGS IN CURRENT VERSION:
+HOO palette with only H and O sub is disabled atm, HOO palette will still work fine if you add s sub tho. ***you can walk around it by copy any of the subs and name it s***
 StarX - stars might have some odd stretch to them.
 
-Comming:
-OSC mode for OSC+DuoNarrowband with fake channel for HUBBLE palette. *Code is already in this file but not active!
+COMMING:
+Tba.
