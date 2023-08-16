@@ -1,4 +1,4 @@
-###CAstronomyEz is a simple script that automates the boring part of editing.
+CAstronomyEz is a simple script that automates the boring part of editing.
   
 WHAT YOU NEED:  
 SHO subs or an RGB image taken with DUAL-NARROWBAND filter.  
