@@ -1,5 +1,8 @@
 CAstronomyEz is a simple script that automates the boring part of editing.
-  
+
+INSTALLATION PATH:  
+C:\Program Files\PixInsight\src\scripts\CAstronomyEz\  
+
 WHAT YOU NEED:  
 SHO subs or an RGB image taken with DUAL-NARROWBAND filter.  
 RC-blurX / noiseX / starX *You can run the program without them if you don't tick the boxes!  
